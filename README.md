@@ -5,8 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishtjatin&label=Profile%20views&color=0e75b6&style=flat" alt="bishtjatin" /> </p>
 
+- 👨‍💻 All of my projects are available at [hhttps://www.linkedin.com/in/jatin-b40910249](hhttps://www.linkedin.com/in/jatin-b40910249)
+
+- 📫 How to reach me **jatinbisht1901@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/jatin ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin ." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
